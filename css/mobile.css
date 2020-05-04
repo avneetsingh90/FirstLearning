@@ -1,0 +1,11 @@
+#what .items {
+    flex-direction: column;
+}
+
+.item.people {
+    display: none;
+}
+
+#who .items {
+    flex-direction: column;
+}
